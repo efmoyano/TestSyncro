@@ -1,1 +1,2 @@
 Test With SSH
+Test With credential provider
